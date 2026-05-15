@@ -1,0 +1,50 @@
+# Image files — too large for git
+*.tif
+*.tiff
+*.ndpi
+*.png
+*.jpg
+*.jpeg
+*.svg
+*.mp4
+*.avi
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Archives
+*.zip
+*.tar.gz
+*.gz
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Claude Code internals
+.agents/
+skills-lock.json
