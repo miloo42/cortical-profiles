@@ -7,7 +7,7 @@ Two modalities: **Nissl** histology and **autofluorescence** imaging across mult
 
 | Folder | Description |
 |--------|-------------|
-| [`corticalprofiles2/`](corticalprofiles2/README.md) | Profile extraction, visualisation, and statistical comparison (Mahalanobis distances, PERMANOVA, Hotelling T²) |
+| [`cortical-profiles/`](cortical-profiles/README.md) | Profile extraction, visualisation, and statistical comparison (Mahalanobis distances, PERMANOVA, Hotelling T²) |
 | [`registration-af-brightfield/`](registration-af-brightfield/README.md) | Coarse-to-fine mutual-information registration of AF and brightfield images |
 
 ## Data
